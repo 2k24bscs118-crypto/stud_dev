@@ -7,3 +7,4 @@ hello this is my first every readme. i hope to learn and understand this platfor
 My name is khadija. really nice meet you!!
 i want to make technology fun again. i hope that i will be able to create to my full extention.
 i love cats and high raised buildings
+i hope to add my portfolo to this file in near future
